@@ -52,12 +52,13 @@ body {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
 }
 
 .nav-list-link {
   color: #ffffff;
-  padding-left: 0.5em;
-  padding-right: 0.5em;
+
   text-decoration: none;
   width: 100%;
 }
