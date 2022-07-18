@@ -37,6 +37,7 @@ body {
 }
 
 .navigation {
+  display: inline-block;
   width: 20%;
 }
 .nav-list {
