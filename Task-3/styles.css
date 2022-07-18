@@ -49,16 +49,15 @@ body {
   margin-bottom: 0.5em;
   background-color: #808080;
   color: #ffffff;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 .nav-list-link {
   color: #ffffff;
   padding-left: 0.5em;
   text-decoration: none;
-  display: block;
-  overflow: hidden;
-  white-space: nowrap;
-  text-overflow: ellipsis;
 }
 .section {
   width: 60%;
